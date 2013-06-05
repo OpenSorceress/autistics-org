@@ -1,0 +1,3 @@
+RewriteCond %{HTTP_HOST} 	^www\.autistics\.org$ [NC]
+RewriteRule ^(.*)$		http://www.autistics.org/$1 [R=301,L]
+

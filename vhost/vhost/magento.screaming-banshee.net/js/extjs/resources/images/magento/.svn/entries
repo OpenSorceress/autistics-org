@@ -1,0 +1,80 @@
+10
+
+dir
+2
+file:///var/www/svn/repos/magento/trunk/js/extjs/resources/images/magento
+file:///var/www/svn/repos
+
+
+
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+238ed2bb-d8b4-409b-a849-4bf1c5a4d153
+
+tree
+dir
+
+toolbar
+dir
+
+grid
+dir
+
+loading_bg.gif
+file
+
+
+
+
+2007-05-07T16:03:02.000000Z
+e202ef7e03d0ef3e9beac7480dae65bf
+2013-01-07T09:00:31.951447Z
+2
+root
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8930
+
+tabs
+dir
+
+layout
+dir
+
+basic-dialog
+dir
+

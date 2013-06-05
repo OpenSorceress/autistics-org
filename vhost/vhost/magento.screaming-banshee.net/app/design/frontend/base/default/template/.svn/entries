@@ -1,0 +1,154 @@
+10
+
+dir
+2
+file:///var/www/svn/repos/magento/trunk/app/design/frontend/base/default/template
+file:///var/www/svn/repos
+
+
+
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+238ed2bb-d8b4-409b-a849-4bf1c5a4d153
+
+oauth
+dir
+
+authorizenet
+dir
+
+googleanalytics
+dir
+
+rating
+dir
+
+paypaluk
+dir
+
+paypal
+dir
+
+email
+dir
+
+core
+dir
+
+downloadable
+dir
+
+newsletter
+dir
+
+reports
+dir
+
+giftmessage
+dir
+
+catalogsearch
+dir
+
+googlecheckout
+dir
+
+directory
+dir
+
+checkout
+dir
+
+wishlist
+dir
+
+sales
+dir
+
+productalert
+dir
+
+tag
+dir
+
+moneybookers
+dir
+
+contacts
+dir
+
+sendfriend
+dir
+
+shipping
+dir
+
+cms
+dir
+
+callouts
+dir
+
+cataloginventory
+dir
+
+paygate
+dir
+
+tax
+dir
+
+persistent
+dir
+
+pagecache
+dir
+
+review
+dir
+
+customer
+dir
+
+centinel
+dir
+
+captcha
+dir
+
+poll
+dir
+
+rss
+dir
+
+bundle
+dir
+
+xmlconnect
+dir
+
+catalog
+dir
+
+page
+dir
+
+payment
+dir
+

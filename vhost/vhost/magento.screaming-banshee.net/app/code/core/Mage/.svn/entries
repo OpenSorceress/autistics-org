@@ -1,0 +1,223 @@
+10
+
+dir
+2
+file:///var/www/svn/repos/magento/trunk/app/code/core/Mage
+file:///var/www/svn/repos
+
+
+
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+238ed2bb-d8b4-409b-a849-4bf1c5a4d153
+
+CurrencySymbol
+dir
+
+Log
+dir
+
+Shipping
+dir
+
+Cms
+dir
+
+GoogleAnalytics
+dir
+
+Weee
+dir
+
+PaypalUk
+dir
+
+SalesRule
+dir
+
+CatalogSearch
+dir
+
+Cron
+dir
+
+Customer
+dir
+
+Dataflow
+dir
+
+GoogleCheckout
+dir
+
+CatalogIndex
+dir
+
+Backup
+dir
+
+Install
+dir
+
+Rule
+dir
+
+Rss
+dir
+
+Page
+dir
+
+Adminhtml
+dir
+
+Oauth
+dir
+
+Widget
+dir
+
+Rating
+dir
+
+Core
+dir
+
+Downloadable
+dir
+
+Reports
+dir
+
+AdminNotification
+dir
+
+PageCache
+dir
+
+Directory
+dir
+
+Wishlist
+dir
+
+Compiler
+dir
+
+Tag
+dir
+
+Sendfriend
+dir
+
+Admin
+dir
+
+Usa
+dir
+
+Connect
+dir
+
+Paygate
+dir
+
+Api2
+dir
+
+Tax
+dir
+
+GiftMessage
+dir
+
+Persistent
+dir
+
+Centinel
+dir
+
+Review
+dir
+
+Captcha
+dir
+
+Poll
+dir
+
+Index
+dir
+
+ProductAlert
+dir
+
+Api
+dir
+
+Bundle
+dir
+
+Catalog
+dir
+
+Payment
+dir
+
+Media
+dir
+
+Authorizenet
+dir
+
+Paypal
+dir
+
+CatalogInventory
+dir
+
+Newsletter
+dir
+
+CatalogRule
+dir
+
+Sitemap
+dir
+
+Checkout
+dir
+
+GoogleBase
+dir
+
+Sales
+dir
+
+XmlConnect
+dir
+
+Eav
+dir
+
+ImportExport
+dir
+
+Contacts
+dir
+

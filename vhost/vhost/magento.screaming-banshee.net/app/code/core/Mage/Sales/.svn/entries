@@ -1,0 +1,89 @@
+10
+
+dir
+2
+file:///var/www/svn/repos/magento/trunk/app/code/core/Mage/Sales
+file:///var/www/svn/repos
+
+
+
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+238ed2bb-d8b4-409b-a849-4bf1c5a4d153
+
+Helper
+dir
+
+sql
+dir
+
+Model
+dir
+
+Controller
+dir
+
+Exception.php
+file
+
+
+
+
+2012-04-23T15:11:26.000000Z
+d32a391279e60d56a94ad27c11c1a985
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1023
+
+doc
+dir
+
+controllers
+dir
+
+data
+dir
+
+Block
+dir
+
+etc
+dir
+

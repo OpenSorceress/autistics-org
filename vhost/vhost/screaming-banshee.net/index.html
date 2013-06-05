@@ -1,0 +1,75 @@
+<html>
+<head>
+<style type="text/css">
+#wrapper {  
+	position:relative;
+	width:600px;
+	margin: 0 auto;
+ }
+#imagebox {
+	float:left;
+ }
+h2 {
+	font-weight:normal;
+}
+</style>
+</head>
+<body>
+<div id="wrapper"> 
+<div id="imagebox">
+<img src="store.jpg" />
+</div>
+<h2>Be Careful With Floats</h2>
+<p>Floats pull affected elements out of the normal document flow and fix their display relative to the margin of their container and all content with static (default) or relative positioning will flow around it.</p>
+<p><strong>This <em>paragraph</em> tag picks up default positioning, which is static. It lives inside a <em>div</em> tag which has a relative positioning rule applied to it.</strong> It is flowing around the floated image, and so is the h2 tag above. For this reason, you have to be very conscious of the order of your markup and what exactly you've floated. If you do not expressly want the automatic flowing-around behavior for the non-floated content, don't create a float rule.</p>
+<table>
+<thead>
+<th colspan="3">This is a <em>th</em> tag with the attribute <em>colspan</em> set to 3.</th>
+</thead>
+<tfoot>
+<tr><td colspan="3">Tables have all sorts of funky tags and rules and shit. That's why they are only really good for tabular data...</td></tr>
+</tfoot>
+<tbody>
+<tr>
+<td>Cell 1</td>
+<td>Cell 2</td>
+<td>Cell 3</td>
+</tr>
+<td>Cell 4</td>
+<td>Cell 5</td>
+<td>Cell 6</td>
+</tr>
+<tr>
+<td colspan="2">This td has a colspan of 2
+</tr>
+<td>Cell X</td>
+<tr>
+<td>Cell 7</td>
+<td>Cell 8</td>
+<td>Cell 9</td>
+</tr>
+</tbody>
+</table>
+<h3>Floats: Ur Doin It Wron: </h3>
+<h4>How to avoid wasting time trying to fix what will only get progressively worse until <a href="">this.</a></h4>
+<ul>
+	<li>You find yourself writing 3+ rules for no reason other than to control or compensate for the float.</li>
+	<li>You find yourself attempting to display multiple elements side-by-side by applying multiple floats.</li>
+		<ul>
+			<li>...especially if you're not floating them all to the same margin (ie, some are left, some are right)</li>
+			<li>...double especially, if the elements are contiguous in the markup, and are not the columns of your multi-column layout</li>
+			<li>...or if you're applying clears, absolute positioning, or margin offsets to nearby elements to fix their layout.</li>
+		</ul>
+	<li>You find yourself adding empty markup with no content that serves no purpose beyond applying a clear rule.</li>
+	<li>You're trying to style nested navigation.</li>
+</ul>
+<h3>Tasks that where floats are often appropriate: </h3>
+<ul>
+	<li>Arranging images within the main content text</li>
+	<li>Positioning sidebar-type containers, such as secondary navigation or ad blocks offset from the main content</li>
+	<li>Displaying an entire main navigation bar to the right or left</li>
+	<li>Magazine-style pullquotes, blockquotes, straplines, etc.</li>
+</ul>
+</div>
+</body>
+</html>

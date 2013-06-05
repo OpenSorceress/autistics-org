@@ -1,0 +1,549 @@
+10
+
+dir
+2
+file:///var/www/svn/repos/magento/trunk/app/design/adminhtml/default/default/template
+file:///var/www/svn/repos
+
+
+
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+238ed2bb-d8b4-409b-a849-4bf1c5a4d153
+
+media
+dir
+
+oauth
+dir
+
+currencysymbol
+dir
+
+authorizenet
+dir
+
+empty.phtml
+file
+
+
+
+
+2012-04-23T15:11:26.000000Z
+89962e49cd326407e00f7fca6e46e532
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1695
+
+widget
+dir
+
+system
+dir
+
+rating
+dir
+
+notification
+dir
+
+paypal
+dir
+
+overlay_popup.phtml
+file
+
+
+
+
+2012-04-23T15:11:26.000000Z
+94e2b20c69e388247f7593e13e4cc627
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2195
+
+email
+dir
+
+downloadable
+dir
+
+login.phtml
+file
+
+
+
+
+2012-04-23T15:11:26.000000Z
+dfbf940938db3d5e21ad6a6bb74d4f8d
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4827
+
+promo
+dir
+
+newsletter
+dir
+
+giftmessage
+dir
+
+formkey.phtml
+file
+
+
+
+
+2012-04-23T15:11:26.000000Z
+9ccc3d9276e40ce83eeaa828af04e34c
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1097
+
+directory
+dir
+
+urlrewrite
+dir
+
+forgotpassword.phtml
+file
+
+
+
+
+2012-04-23T15:11:26.000000Z
+7aaaacd88dd9b4649878279bb193ea47
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4394
+
+sales
+dir
+
+compiler
+dir
+
+eav
+dir
+
+tag
+dir
+
+report
+dir
+
+moneybookers
+dir
+
+resetforgottenpassword.phtml
+file
+
+
+
+
+2012-04-23T15:11:26.000000Z
+179bfd294427de2afddf26e43ba3419f
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4991
+
+shipping
+dir
+
+cms
+dir
+
+weee
+dir
+
+popup.phtml
+file
+
+
+
+
+2012-04-23T15:11:26.000000Z
+211a30735ddde8da665b221e0b923531
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3534
+
+dashboard
+dir
+
+usa
+dir
+
+connect
+dir
+
+paygate
+dir
+
+api2
+dir
+
+tax
+dir
+
+store
+dir
+
+access_denied.phtml
+file
+
+
+
+
+2012-04-23T15:11:26.000000Z
+d5bed07c639925ce1752c0e10ae61b5f
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1473
+
+coming.phtml
+file
+
+
+
+
+2012-04-23T15:11:26.000000Z
+d078d87fb1dee05dabd24dcb2ebc60e2
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1255
+
+page.phtml
+file
+
+
+
+
+2012-04-23T15:11:26.000000Z
+4e507a52e94165a139ec846cb92331e7
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3908
+
+pagecache
+dir
+
+review
+dir
+
+customer
+dir
+
+centinel
+dir
+
+captcha
+dir
+
+backup
+dir
+
+poll
+dir
+
+index
+dir
+
+googlebase
+dir
+
+api
+dir
+
+bundle
+dir
+
+catalog
+dir
+
+xmlconnect
+dir
+
+permissions
+dir
+
+page
+dir
+
+importexport
+dir
+
+payment
+dir
+
+example.phtml
+file
+
+
+
+
+2012-04-23T15:11:26.000000Z
+10e6bdf1b32eadbed75d35538c53b9e3
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18704
+

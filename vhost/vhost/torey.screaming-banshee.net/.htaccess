@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond $0 !=images/favicon.ico
+RewriteRule ^([^/]+/)*favicon\.ico$ favicon.ico [L]

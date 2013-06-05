@@ -1,0 +1,70 @@
+/* PageLines Dynamic CSS - Copyright 2008 - 2010 */
+
+/* Dynamic Layout */
+
+#page-main .content{width:970px}
+#site{min-width:970px}
+#site .content, .wcontent, #primary-nav ul.main-nav.nosearch{width:968px}
+#primary-nav ul{width:748px}
+
+.fullwidth #pagelines_content #column-main, .fullwidth .wmain, .fullwidth #buddypress-page #container{width:960px}
+.fullwidth #pagelines_content #sidebar1, .fullwidth #buddypress-page #sidebar1{width:0px}
+.fullwidth #pagelines_content #sidebar2, .fullwidth #buddypress-page #sidebar2{width:8px}
+.fullwidth #pagelines_content #column-wrap, .fullwidth #buddypress-page #container{width:960px}
+.fullwidth #pagelines_content #sidebar-wrap, .fullwidth #buddypress-page #sidebar-wrap{width:0px}
+
+.one-sidebar-right #pagelines_content #column-main, .one-sidebar-right .wmain, .one-sidebar-right #buddypress-page #container{width:648px}
+.one-sidebar-right #pagelines_content #sidebar1, .one-sidebar-right #buddypress-page #sidebar1{width:320px}
+.one-sidebar-right #pagelines_content #sidebar2, .one-sidebar-right #buddypress-page #sidebar2{width:0px}
+.one-sidebar-right #pagelines_content #column-wrap, .one-sidebar-right #buddypress-page #container{width:648px}
+.one-sidebar-right #pagelines_content #sidebar-wrap, .one-sidebar-right #buddypress-page #sidebar-wrap{width:320px}
+
+.one-sidebar-left #pagelines_content #column-main, .one-sidebar-left .wmain, .one-sidebar-left #buddypress-page #container{width:640px}
+.one-sidebar-left #pagelines_content #sidebar1, .one-sidebar-left #buddypress-page #sidebar1{width:328px}
+.one-sidebar-left #pagelines_content #sidebar2, .one-sidebar-left #buddypress-page #sidebar2{width:0px}
+.one-sidebar-left #pagelines_content #column-wrap, .one-sidebar-left #buddypress-page #container{width:640px}
+.one-sidebar-left #pagelines_content #sidebar-wrap, .one-sidebar-left #buddypress-page #sidebar-wrap{width:328px}
+
+.two-sidebar-right #pagelines_content #column-main, .two-sidebar-right .wmain, .two-sidebar-right #buddypress-page #container{width:480px}
+.two-sidebar-right #pagelines_content #sidebar1, .two-sidebar-right #buddypress-page #sidebar1{width:240px}
+.two-sidebar-right #pagelines_content #sidebar2, .two-sidebar-right #buddypress-page #sidebar2{width:248px}
+.two-sidebar-right #pagelines_content #column-wrap, .two-sidebar-right #buddypress-page #container{width:480px}
+.two-sidebar-right #pagelines_content #sidebar-wrap, .two-sidebar-right #buddypress-page #sidebar-wrap{width:488px}
+
+.two-sidebar-left #pagelines_content #column-main, .two-sidebar-left .wmain, .two-sidebar-left #buddypress-page #container{width:480px}
+.two-sidebar-left #pagelines_content #sidebar1, .two-sidebar-left #buddypress-page #sidebar1{width:240px}
+.two-sidebar-left #pagelines_content #sidebar2, .two-sidebar-left #buddypress-page #sidebar2{width:248px}
+.two-sidebar-left #pagelines_content #column-wrap, .two-sidebar-left #buddypress-page #container{width:480px}
+.two-sidebar-left #pagelines_content #sidebar-wrap, .two-sidebar-left #buddypress-page #sidebar-wrap{width:488px}
+
+.two-sidebar-center #pagelines_content #column-main, .two-sidebar-center .wmain, .two-sidebar-center #buddypress-page #container{width:480px}
+.two-sidebar-center #pagelines_content #sidebar1, .two-sidebar-center #buddypress-page #sidebar1{width:240px}
+.two-sidebar-center #pagelines_content #sidebar2, .two-sidebar-center #buddypress-page #sidebar2{width:248px}
+.two-sidebar-center #pagelines_content #column-wrap, .two-sidebar-center #buddypress-page #container{width:720px}
+.two-sidebar-center #pagelines_content #sidebar-wrap, .two-sidebar-center #buddypress-page #sidebar-wrap{width:248px}
+
+/* Dynamic Grid */
+
+.dcol_container_2{width: 988px; float: right;}
+.dcol_2{width: 474px; margin-left: 20px;}
+
+.dcol_container_3{width: 986px; float: right;}
+.dcol_3{width: 308px; margin-left: 20px;}
+
+.dcol_container_4{width: 988px; float: right;}
+.dcol_4{width: 227px; margin-left: 20px;}
+
+.dcol_container_5{width: 985px; float: right;}
+.dcol_5{width: 177px; margin-left: 20px;}
+
+/* Options */
+
+body #page{background:#ffebb6;}
+body, body.fixed_width{background:#36020c;}
+a, #subnav_row li.current_page_item a, #subnav_row li a:hover, #grandchildnav .current_page_item > a, .branding h1 a:hover, .post-comments a:hover, .bbcrumb a:hover, 	#feature_slider .fcontent.fstyle-lightbg a, #feature_slider .fcontent.fstyle-nobg a{color:#225E9B;}
+
+
+/* Custom CSS */
+
+
+

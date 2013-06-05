@@ -1,0 +1,142 @@
+10
+
+dir
+2
+file:///var/www/svn/repos/magento/trunk/js/tiny_mce/plugins
+file:///var/www/svn/repos
+
+
+
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+238ed2bb-d8b4-409b-a849-4bf1c5a4d153
+
+media
+dir
+
+pagebreak
+dir
+
+insertdatetime
+dir
+
+noneditable
+dir
+
+inlinepopups
+dir
+
+autolink
+dir
+
+example_dependency
+dir
+
+autoresize
+dir
+
+example
+dir
+
+iespell
+dir
+
+emotions
+dir
+
+save
+dir
+
+lists
+dir
+
+advhr
+dir
+
+advlist
+dir
+
+tabfocus
+dir
+
+layer
+dir
+
+advimage
+dir
+
+preview
+dir
+
+directionality
+dir
+
+visualchars
+dir
+
+wordcount
+dir
+
+legacyoutput
+dir
+
+table
+dir
+
+autosave
+dir
+
+advlink
+dir
+
+print
+dir
+
+nonbreaking
+dir
+
+fullpage
+dir
+
+style
+dir
+
+searchreplace
+dir
+
+fullscreen
+dir
+
+spellchecker
+dir
+
+contextmenu
+dir
+
+template
+dir
+
+paste
+dir
+
+bbcode
+dir
+
+xhtmlxtras
+dir
+

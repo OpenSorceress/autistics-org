@@ -1,0 +1,123 @@
+10
+
+dir
+2
+file:///var/www/svn/repos/magento/trunk/lib/Zend/Feed/Reader/Extension
+file:///var/www/svn/repos
+
+
+
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+238ed2bb-d8b4-409b-a849-4bf1c5a4d153
+
+Atom
+dir
+
+Syndication
+dir
+
+DublinCore
+dir
+
+Thread
+dir
+
+Slash
+dir
+
+Content
+dir
+
+EntryAbstract.php
+file
+
+
+
+
+2011-02-18T18:46:02.000000Z
+43cbf86bb869442b86211d295264c78b
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4620
+
+FeedAbstract.php
+file
+
+
+
+
+2010-06-17T10:51:05.000000Z
+6e3d4f22ef3cda89b52a2f2d0f4c3eb9
+2013-01-07T09:00:31.951447Z
+2
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4037
+
+Podcast
+dir
+
+WellFormedWeb
+dir
+
+CreativeCommons
+dir
+
